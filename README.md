@@ -25,9 +25,9 @@ Buat Crack Facebook Megawati
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Simpel`
-- `git clone https://github.com/Yusep-XD/Simpel`
-- `cd Simpel`
-- `python Simpel.py`
+- `git clone https://github.com/Yusep-XD/simpel`
+- `cd simpel`
+- `python simpel.py`
      
 
  ```This Tools is Free Enjoy ```</br>
